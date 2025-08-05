@@ -1,0 +1,216 @@
+179
+
+selection		320 320hud1	160	160	80	20
+
+bucket1			320 320hud2	108	16	12	12
+bucket2			320 320hud2	108	28	12	12
+bucket3			320 320hud2	108	40	12	12	
+bucket4			320 320hud2	108	52	12	12
+bucket5			320 320hud2	108	64	12	12					
+bucket0			320 320hud2	108	76	12	12
+
+dmg_bio			320 320hud4	0	0	32	32
+dmg_poison		320 320hud4	0	0	32	32
+dmg_chem		320 320hud4	32	0	32	32
+dmg_cold		320 320hud4	64	0	32	32
+dmg_drown		320 320hud4	96	0	32	32
+dmg_heat		320 320hud4	128	0	32	32
+dmg_gas			320 320hud4	160	0	32	32
+dmg_rad			320 320hud4	192	0	32	32
+dmg_shock		320 320hud4	224	0	32	32
+dmg_caltrop		320 tfchud06	176	216	32	32
+dmg_tranq		320 tfchud06	176	184	32	32
+dmg_concuss		320 tfchud06	176	152	32	32
+dmg_haluc		320 tfchud06	176	120	32	32
+
+grenade			320 320hud2     36      34      18      18
+
+number_0		320 320hud2	0	0	12  16
+number_1		320 320hud2	12	0	12  16
+number_2		320 320hud2	24	0	12  16
+number_3		320 320hud2	36	0	12  16
+number_4		320 320hud2	48	0	12  16
+number_5		320 320hud2	60	0	12  16
+number_6		320 320hud2	72	0	12  16
+number_7		320 320hud2	84	0	12  16
+number_8		320 320hud2	96	0	12  16
+number_9		320 320hud2	108	0	12  16
+
+divider			320 320hud2	120	0	1	20
+
+cross			320 320hud2	0	72	16	16
+
+suit_full		320 320hud2	0	52	20	20
+suit_empty		320 320hud2	20	52	20	20
+
+flag_blue		320 tfchud06	207	152	32	32
+flag_red		320 tfchud06	207	182	32	32
+flag_green		320 tfchud06	128	135	32	32
+flag_yellow		320 tfchud06	128	167	32	32
+
+flash_full		320 320hud2	16	72	18	16
+flash_empty		320 320hud2	34	72	18	16
+flash_beam		320 320hud2	52	72	6	16
+
+train_back		320	320hud3 0	0	48	48
+train_stop		320	320hud3 48	0	48	48
+train_forward1	320	320hud3 96	0	48	48
+train_forward2	320	320hud3 144	0	48	48
+train_forward3	320	320hud3 192	0	48	48
+
+title_half		320 320hud3 0	48	128	16
+title_life		320 320hud3 128 48	116	16
+
+d_spanner		320	tfc_dmsg 0	48	48	16
+d_medikit		320	tfc_dmsg 0	192	48	16
+d_knife			320	tfc_dmsg 0	32	48	16
+d_pipebomb		320	tfc_dmsg 0	112	60	16
+d_gl_grenade		320	tfc_dmsg 0	128	60	16
+d_sniperrifle		320	tfc_dmsg 0	96	60	16
+d_autorifle		320	tfc_dmsg 0	80	60	16
+d_ac			320	tfc_dmsg 0	16	48	16
+d_shotgun		320	tfc_dmsg 0	144	60	16
+d_railgun		320	tfc_dmsg 110	0	40	20
+d_flames		320	tfc_dmsg 110	20	60	20
+d_nails			320	tfc_dmsg 110	40	50	20
+d_supernails		320	tfc_dmsg 110	60	50	20
+d_sentrygun		320	tfchud06 208	136	48	16
+d_headshot		320	tfchud06 208	120	48	16
+d_axe			320	320hud1	0	208	48	16
+d_357			320	320hud1	0	240	32	16
+d_supershotgun		320	320hud1	48	224	48	16
+d_crossbow		320	320hud1	48	240	48	16
+d_rocket		320	320hud1	96	208	48	16
+d_gauss			320	320hud1	96	224	32	16
+d_hornet		320	320hud1	144	208	48	16
+d_grenade		320	320hud1	144	224	32	16
+d_satchel		320	320hud1	144	240	32	16
+d_tripmine		320	320hud1	192	208	32	16
+d_snark			320	320hud1	192	224	32	16
+d_skull			320	320hud1	192	240	32	16
+d_tracktrain		320	320hud1	224	208	32	16
+d_genericprimedgrenade	320	320hud1	144	224	32	16
+d_normalgrenade		320	320hud1	144	224	32	16
+d_nailgrenade		320	tfc_dmsg 84	0	18	18
+d_napalmgrenade		320	tfc_dmsg 84	24	18	18
+d_caltrop		320	tfc_dmsg 84	48	18	18
+d_mirvgrenade		320	tfc_dmsg 84	72	18	18
+d_gasgrenade		320	tfc_dmsg 84	96	18	18
+d_empgrenade		320	tfc_dmsg 84	120	18	18
+d_concussiongrenade	320	tfc_dmsg 84	144	18	18
+
+
+item_battery	320 320hud2	48	52	20	20
+item_healthkit	320	320hud2	68	52	20	20
+item_longjump	320	320hud2	88	52	20	20
+
+
+
+//===========================================
+
+
+selection		640 640hud3	0	180	170	45
+
+bucket1			640 640hud7	168	72	20	20
+bucket2			640 640hud7	188	72	20	20		
+bucket3			640 640hud7	208	72	20	20		
+bucket4			640 640hud7	168	92	20	20		
+bucket5			640 640hud7	188	92	20	20		
+bucket0			640 640hud7	208	92	20	20		
+
+dmg_bio                 640 640hud8     128     0       64      64
+dmg_poison              640 640hud8     128     0       64      64
+dmg_chem                640 640hud8     0       0       64      64
+dmg_cold                640 640hud9     64      0       64      64
+dmg_drown               640 640hud8     64      0       64      64
+dmg_heat                640 640hud9     128     0       64      64
+dmg_gas                 640 640hud9     0       0       64      64
+dmg_rad                 640 640hud9     192 	0   	64      64
+dmg_shock               640 640hud8     192     0       64      64
+dmg_caltrop		640 tfchud05	192	192	64	64
+dmg_tranq		640 tfchud05	192	128	64	64
+dmg_concuss		640 tfchud05	192	64	64	64
+dmg_haluc		640 tfchud05	192	0	64	64
+
+
+number_0		640 640hud7	0	0	20	24
+number_1		640 640hud7	24	0	20	24
+number_2		640 640hud7	48	0	20	24
+number_3		640 640hud7	72	0	20	24
+number_4		640 640hud7	96	0	20	24
+number_5		640 640hud7	120	0	20	24
+number_6		640 640hud7	144	0	20	24
+number_7		640 640hud7	168	0	20	24
+number_8		640 640hud7	192	0	20	24
+number_9		640 640hud7	216	0	20	24
+
+divider			640 640hud7	240	0	2	40
+
+cross			640 640hud7	80	24	32	32
+
+suit_full		640 640hud7	0	24	40	40
+suit_empty		640 640hud7	40	24	40	40
+
+flag_blue		640 tfchud01	192	0	64	64
+flag_red		640 tfchud01	192	62	64	64
+flag_green		640 tfchud06	0	135	64	64
+flag_yellow		640 tfchud06	64	135	64	64
+
+flash_full		640 640hud7	160	24	32	32
+flash_empty		640 640hud7	112	24	32	32
+flash_beam		640 640hud7 144	24	16	32
+
+train_back		640	640hud5 170	0	72	72
+train_stop		640	640hud5 170	72	72	72
+train_forward1	640	640hud5 170	144	72	72
+train_forward2	640	640hud6 170	0	72	72
+train_forward3	640	640hud6 170	72	72	72
+
+autoaim_c		640	crosshairs	96	0	24	24
+
+title_half		640 640hud4	0	226	256	30
+title_life		640 640hud5	0	226	220	30
+
+d_spanner		640	tfc_dmsg 0	48	48	16
+d_medikit		640	tfc_dmsg 0	192	48	16
+d_knife			640	tfc_dmsg 0	32	48	16
+d_pipebomb		640	tfc_dmsg 0	112	60	16
+d_gl_grenade		640	tfc_dmsg 0	128	60	16
+d_sniperrifle		640	tfc_dmsg 0	96	60	16
+d_autorifle		640	tfc_dmsg 0	80	60	16
+d_ac			640	tfc_dmsg 0	16	48	16
+d_shotgun		640	tfc_dmsg 0	144	60	16
+d_railgun		640	tfc_dmsg 110	0	40	20
+d_flames		640	tfc_dmsg 110	20	60	20
+d_nails			640	tfc_dmsg 110	40	50	20
+d_supernails		640	tfc_dmsg 110	60	50	20
+d_sentrygun		640	tfchud06 208	136	48	16
+d_headshot		640	tfchud06 208	120	48	16
+d_axe			640	640hud1	192	0	48	16
+d_357			640	640hud1	192	32	32	16
+d_supershotgun		640	640hud1	192	64	48	16
+d_crossbow		640	640hud1	192	80	48	16
+d_rocket		640	640hud1	192	96	48	16
+d_gauss			640	640hud1	192	112	32	16
+d_hornet		640	640hud1	192	144	48	16
+d_grenade		640	640hud1	192	160	32	16
+d_satchel		640	640hud1	192	176	32	16
+d_tripmine		640	640hud1	192	192	32	16
+d_snark			640	640hud1	192	208	32	16
+d_skull			640	640hud1	192	224	32	16
+d_tracktrain		640	640hud1	192	240	32	16
+d_genericprimedgrenade	640	640hud1	192	160	32	16
+d_normalgrenade		640	640hud1	192	160	32	16
+d_nailgrenade		640	tfc_dmsg 60	0	24	24
+d_napalmgrenade		640	tfc_dmsg 60	24	24	24
+d_caltrop		640	tfc_dmsg 60	48	24	24
+d_mirvgrenade		640	tfc_dmsg 60	72	24	24
+d_gasgrenade		640	tfc_dmsg 60	96	24	24
+d_empgrenade		640	tfc_dmsg 60	120	24	24
+d_concussiongrenade	640	tfc_dmsg 60	144	24	24
+
+item_battery	640 640hud2	176	0	44	44
+item_healthkit	640 640hud2	176	48	44	44
+item_longjump	640 640hud2	176	96	44	44
+
+grenade			640 640hud7     48      96      24      24
