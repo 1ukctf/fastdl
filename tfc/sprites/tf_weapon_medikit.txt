@@ -1,5 +1,0 @@
-4
-weapon			320 tfchud06	175	40	80	20
-weapon_s		320 tfchud06	175	100	80	20
-weapon			640 tfchud06	0	90	170	45
-weapon_s		640 tfchud05	0	180	170	45
