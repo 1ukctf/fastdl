@@ -1,0 +1,27 @@
+Stormz2
+
+Created By: MikeQuist[x7]
+
+----------------------------------
+
+Objective: Deactivate enemy lasers and bring the enemy flag
+to your capture point. The Capture point is located on the
+battlements.
+
+Lasers are deactivated 45 seconds.
+Flag respawns after being dropped 60 seconds.
+
+----------------------------------
+
+This is a remodeling of the original x7stormz. The map has been 
+adjusted as seen fit to fix the errors apparent in the original,
+and to improve upon the beauty using new light schemes and brushes.
+
+----------------------------------
+
+Thanks to Clan [x7], and all others who playtested this and told
+me what a large piece of shit it was. Without you, I might not
+have my low self esteem!
+
+Current Site As Of 11-21-05: x7clan.net/mapping
+Current Email As Of 11-21-05: xmikequistx@hotmail.com

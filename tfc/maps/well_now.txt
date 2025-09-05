@@ -1,0 +1,12 @@
+Well Now
+by [WTF?]Defrag
+========================
+
+PLAY INFORMATION:
+
+Get the flag, cap it in the tower below your flag room.
+Flags may be thrown from the balcony window, but no one can enter/exit via balcony window.
+
+This is a remake of the original well map for 8v8 TFC.
+
+========================

@@ -1,0 +1,98 @@
+Demolish by NeonLight
+
+Objectives: Capture the Flag
+------------------
+Disable the Enemy Security and Capture their flag!
+Defend your flag. 
+
+Scoring
+------------------
+10 team points per Capture.
+Flag returns after 45 seconds.
+
+Changelog
+------------------
+
+------------------
+4/1/23 demolish
+------------------
+*** HAVE TO DUCK TO RAMPSLIDE AGAIN***
+Removed bottom bag in flagroom
+Added ladder to battlements in ramp room
+Added blue flag and red cap point
+Adjusted shoot push
+*** HAVE TO DUCK TO RAMPSLIDE AGAIN***
+
+------------------
+2/23/23 demolish_b8
+------------------
+Adjusted battlements entrance
+Added more upper walkway in flagroom
+Second bag moved up top flagroom
+Added second ladder to top walkway in flagroom
+Lowered the back left ramp platform in flagroom
+
+------------------
+2/14/23 demolish_b7
+------------------
+Moved Cap Point to Front Door logo
+Adjusted ceiling in Foyer
+Moved pillars in Foyer
+Removed secondary Battlements hall, added catwalk from Battlements to Button floor hall
+Removed Resupply health, armor, and bag. Made water pools have resup field
+Removed trim at top of button ramp entrance
+Added ladder near shoop at Button
+Adjusted Button bag (75 -> 50 cells)
+Added extended catwalk in flagroom above Main Ramp
+Moved bag back onto catwalk
+
+------------------
+11/23/22 demolish_b6
+------------------
+Adjusted Button jump pad
+Moved second bag in Flag Room to corner bewteen Switch and Main Ramp
+Changed Button to Flagroom Hallway (Increased Width and Height of hall)
+Fixed various lights not being illusionary
+
+------------------
+11/23/22 demolish_b5
+------------------
+Lowered ceiling in top Respawn
+Adjusted lower Main Ramp for easier Offense access
+Removed trim at top Main Ramp
+Adjusted right wall in Foyer
+Lowered Cap Point into floor, no more trim around
+Added Water Pit to Battlements
+Made all Water Pit trims walk through-able
+Added Laser Details at Flag
+Various Texture/Lighting Changes/Fixes
+
+------------------
+11/18/22 demolish_b4
+------------------
+Added Water Pits in Yard
+Main Ramps wider (288u -> 320u)
+Adjusted Button Jump Pad, less disappearing rockets
+Removed Health and Armor from the Flag Room corner bag
+Adjusted Hallway from Button to Flagroom (no more Z Connector)
+
+------------------
+11/17/22 demolish_b3
+------------------
+Added no build zone to Spawns and outside Spawn door
+Added lower ceiling/walls to Ramp side Foyer
+Recentered Battlements to Foyer Entryway
+
+
+------------------
+11/x/22 demolish_b2
+------------------
+Shortened Yard
+Elongated respawn water pits
+Medics start 2|3 Grenades
+Removed MIRV for HW, kept 1 on spawn for Demoman
+Removed Top Ramp bag
+Adjusted Battlements
+Battlements Spawn Exit flush with Battlements floor
+Fixed Button Light
+Added additional security timer

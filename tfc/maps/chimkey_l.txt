@@ -1,0 +1,27 @@
+                       =======================================
+                                                 LNTFC
+                            Liga Nacional de Team Fortress Classic
+                                      visita www.lntfc.org
+                       =======================================
+
+ Chimkey (Edición Liga) - Capturar la bandera
+
+ OBJETIVO:
+ ====================
+ Entra en la base enemiga y ábrete
+ paso hasta la habitación donde se
+ encuentra su bandera. Cógela y
+ llévala a tus posiciones.
+ Colócala en la plataforma elevada
+ para capturarla.
+
+ PUNTUACIÓN:
+ ================
+ 10 puntos por captura.
+
+ NOTAS:
+ ================
+ El jugador que lleva la bandera
+ la suelta al morir. Las banderas
+ abandonadas vuelven a su base al
+ cabo de 60 segundos.

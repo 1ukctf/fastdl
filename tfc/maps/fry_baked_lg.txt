@@ -1,0 +1,10 @@
+Lowgren version of Fry's Baked Desert
+by [GoW]FryGuy
+
+Standard CTF. Flags return
+in 60 seconds. Set in a
+desert scheme.
+
+(C) 2001 Kevin Hjelden
+All Rights Reserved.
+

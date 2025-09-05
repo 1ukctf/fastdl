@@ -1,0 +1,38 @@
+________________________________________________
+
+              * CASTRA - BETA 2 *
+________________________________________________
+made by redux:  8/21/25
+
+Capture the Flag
+
+Objective:
+Enter the enemy base and go to the flagroom.  
+Take the flag back to your base's ramp room to capture.
+Your team recieves 10 points for each capture.
+The player who captures recieves 10 points.
+
+Other Notes: 
+Flag carriers drop the flag when they die.
+Dropped flags return to the flag room after 60 seconds.
+Grenade bag located in base ramp room.
+
+Flag capture rewards full health, armor, and grenade restock.
+
+-
+This map is made for the TFC Legacy build (Pre 25th anniversary)
+-
+Notable Beta 3 Changes:
+
+*NEW* Third route to flagroom.
+
+Expanded battlements spawn to prevent telefrag.
+
+Spawn locations:
+Battlements Spawn:  Scout, Medic, Spy
+Upper Level Spawn ONLY:  Sniper, Pyro
+Upper & Lower Level Spawns:  Soldier, Demo, HWGuy, Engineer
+
+Small flagroom resupply change:
+Two bags:  30h, 30a, 60c (15 seconds)
+One bag:  60c, 1 frag grenade (30 seconds)

@@ -1,0 +1,6 @@
+Original map by BluPhoenix (blu3498 on Discord)
+
+Entity edit by Nomad (n0m4d84) for discord.gg/tfpugs
+Changes:
+- Removed the func_nogrenades from Red team respawns.
+Building guns inside the respawns is still illegal!

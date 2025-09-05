@@ -1,0 +1,34 @@
+Cranked - Capture the Flag
+By Danimal
+
+Scoring: 10 points per capture. Carry the flag through the water tunnel 
+and capture it before it returns for an additional 5 points.
+
+Dropped flags return after 60 seconds. 
+
+Lasers stay deactivated for 45 seconds.
+
+The bag across from relay gives ammo and 100 cells.
+The bag next to relay gives ammo, armor and 50 cells.
+
+--Special thanks to omeN and climax for map ideas, debugging and testing--
+
+--Shout out to The Coach's Office for play tests and suggestions--
+
+Created in 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+Destroy_l - 6v6 (Works 8v8 also)
+Made by Koochy
+
+Objective: Storm the enemy Base and make
+your way to where their Flag resides at the 
+rear of the base. Grab it and bring it back 
+to your Base. Place the flag on the platform 
+located opposite your security control.
+
+Scoring: 10 points per Capture.
+
+Security: Resets after 30 seconds.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 45 seconds.
+
+Credits:
+Team Destroy (Best 6v6 clan ever)
+[GeN] #gen (irc.gamesurge.net)

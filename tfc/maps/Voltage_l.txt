@@ -1,0 +1,16 @@
+Voltage_l - Capture The Flag
+By Ruger
+
+Objective: Make your way to the enemy base and 
+to the flag room. Bring the flag back to your 
+base for 10 points.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 60 seconds.
+
+Touching the walls of the coil Kills
+everybody regardless of team, the Ramp room 
+switch will activate the coil which
+kills everything in it for 10 seconds
+and takes 20 seconds to recharge.

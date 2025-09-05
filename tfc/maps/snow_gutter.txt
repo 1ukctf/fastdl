@@ -1,0 +1,13 @@
+Snow Gutter - Capture The Flag
+
+by Nest
+
+a 2024 remake of ski_gutter (2003) by Skifly
+
+- Infiltrate the enemy winter fortress and steal their flag.
+
+- Bring it back to your base and capture it on your battlements!
+
+- Open the water access by pressing the security button in the ramp room.
+
+- Wrap up warm and don't fall into the pit!

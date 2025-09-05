@@ -1,0 +1,19 @@
+Waterwar - CTF
+
+Objective: 
+Enter the enemy base to capture their flag.
+Take it back to your battlements.
+You can drain the enemy water via a switch in
+the basement, allowing easier access to the
+flag.
+
+
+Scoring: 
+Capture Flag - 10 pts
+
+Other Notes: Offense spawns at the midpoint of
+the map, so there should be minimal ovo.
+
+Map by James (aka madjester / kirtap / dodge )
+Thanks
+jc/Curve/MarshMallow/|HOP|Dark/[fongchief]/jarek
