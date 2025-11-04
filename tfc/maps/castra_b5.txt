@@ -1,0 +1,40 @@
+________________________________________________
+
+              * CASTRA - BETA 5 *
+________________________________________________
+made by redux:  11/02/25
+
+Capture the Flag
+
+Objective:
+Enter the enemy base and go to the flagroom.  
+Take the flag back to your base's ramp room to capture.
+Your team receives 10 points for each capture.
+The player who captures receives 10 points.
+
+Other Notes: 
+Flag carriers drop the flag when they die.
+Dropped flags return to the flag room after 60 seconds.
+Grenade bag located in base ramp room.
+
+Flag capture rewards full health, armor, and grenade restock.
+
+-
+This map is made for the TFC Legacy build (Pre 25th anniversary)
+-
+Notable Beta 5 Changes:
+
+- Pit added in back waterfall route,
+  Automatic flag return in 20 seconds if carrier falls in with flag.
+- Added Resupply bag to top flagroom.
+- Flagroom resupply bags contents now 25h, 25a, 75c (15 seconds) 
+- Added single conc to offense spawn (45 seconds),
+  Medic still spawns with 2 conc default
+- Grenade bag floor now flush with adjacent floor.
+- reverted relay change - relay now inset again to aid piping flag
+- fixed all engineer "not enough room to build" issues
+- Soldier spawns moved forward in upper level spawn
+- Swapped one Soldier spawn to lower level, one HWGuy to upper level
+- Small flagroom resupply change:
+  Moved closer to flagroom
+  Two bags revised contents:  20h, 20a, 75c (15 seconds)
