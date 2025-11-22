@@ -1,0 +1,29 @@
+________________________________________________
+
+              * STORMZ 3 - BETA 2 *
+________________________________________________
+made by redux:  11/21/25
+
+Capture the Flag
+
+
+Objective: Deactivate enemy lasers and bring the enemy flag
+to your capture point. The capture point is located on the
+battlements.
+
+Your team receives 10 points for each capture.
+The player who captures receives 10 points.
+
+Other Notes: 
+Flag carriers drop the flag when they die.
+Dropped flags return to the flag room after 60 seconds.
+Lasers are deactivated for 45 seconds.
+
+Flag capture rewards full health, armor, and 2/2 grenade restock.
+
+-
+This map is made for the TFC Legacy build (Pre 25th anniversary)
+-
+This is a tribute to the original Stormz2 created by MikeQuist[x7]
+20 years of stormz2 (as of 11/21/25)
+
